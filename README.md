@@ -18,6 +18,7 @@
 		<a href="https://instagram.com/bynickso"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	</p>
 
+[![My Skills](https://skillicons.dev/icons?i= java, spring, postgres, mysql, git, github, bitbucket, idea, postman, jenkis, maven, gradle&perline=6)](https://skillicons.dev)
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 	<a href="https://skillicons.dev">
