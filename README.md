@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nick Saurino</h1>
 <h3 align="center">A passionate backend developer from Perú!!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=byno0dle&label=Profile%20views&color=0e75b6&style=flat" alt="byno0dle" /> </p>
+<p align="center">
+	<a href="https://github.com/byNo0dle"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/byNo0dle?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  	<a href="https://github.com/byNo0dle"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+</p>
+
 
 - 📫 How to reach me **nicksaurinocruz@gmail.com**
 
