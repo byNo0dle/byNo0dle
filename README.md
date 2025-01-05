@@ -3,7 +3,6 @@
 
 <p align="center">
 	<a href="https://github.com/byNo0dle"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/byNo0dle?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  	<a href="https://github.com/byNo0dle"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
 
 
@@ -25,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,bitbucket,idea,postman,jenkis,maven,gradle&perline=6" />
+		<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,bitbucket,idea,postman,jenkis,maven,gradle" />
 	</a>
 </p>
 
